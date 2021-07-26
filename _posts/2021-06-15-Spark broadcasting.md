@@ -3,7 +3,7 @@ layout: post
 title: Spark broadcasting을 이용해 기존 머신러닝 라이브러리 속도 개선하기
 subheading: JupyterHub를 구축했다면 사용자 별 환경과 리소스를 구분하기 위한 설정방법을 알아봅시다.
 author: 김연수 | Data Analyst
-categories: 테스트1
+categories: 카테고리1
 tags: python sklearn ml spark
 sidebar: []
 ---
